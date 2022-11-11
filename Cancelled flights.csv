@@ -1,0 +1,49 @@
+"Title:","Cancelled from the Airline Performance - Arrivals Database"
+"SubTitle:","State"
+"Time:","1987 - 2021"
+"Unit of Measure:","#","#","#","#"
+"Citation:","Bureau of Transportation Statistics, Bureau of Transportation Statistics  (2022-10-25). Airline Performance - Arrivals: Cancelled | California, Florida, Georgia, New York, 1987 - 2021. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  007-001-007 doi:https://doi.org/10.6068/DP1846828523F21"
+"ColumnCount:",5
+"RowCount:",35
+
+"Time","California, #","Florida, #","Georgia, #","New York, #"
+"1987",2675,920,1146,939
+"1988",4117,2620,3265,3342
+"1989",6220,6252,6699,5199
+"1990",4584,2106,2392,3214
+"1991",5100,1384,1116,2847
+"1992",4064,3343,1153,4797
+"1993",3463,2914,2042,4703
+"1994",3615,2762,2151,6199
+"1995",10439,3364,3352,4830
+"1996",13349,3690,4919,7680
+"1997",11141,2530,4042,4364
+"1998",16705,4403,5780,6126
+"1999",16181,6288,7721,9332
+"2000",23311,6384,10218,12003
+"2001",27743,10051,10794,17641
+"2002",5575,1327,3015,3788
+"2003",8741,2466,5541,6966
+"2004",9925,7659,9077,7289
+"2005",9139,6834,15409,8436
+"2006",11943,3579,7897,8145
+"2007",12486,5020,8371,13114
+"2008",12090,4543,7154,10795
+"2009",7758,2946,6661,7708
+"2010",9878,5481,9686,9884
+"2011",10792,5626,7935,8766
+"2012",11655,3492,2963,5941
+"2013",10696,2811,3751,6569
+"2014",11145,5096,6513,8053
+"2015",8287,4592,2933,7714
+"2016",8025,4988,2570,4604
+"2017",9620,10046,5754,6319
+"2018",8113,6646,3112,12746
+"2019",13427,7791,2853,9004
+"2020",29115,25508,13057,13147
+"2021",8437,9868,2473,3400
+
+
+
+"Publisher:", "Bureau of Transportation Statistics "
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
