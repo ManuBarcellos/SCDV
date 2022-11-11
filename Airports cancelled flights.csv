@@ -1,0 +1,49 @@
+"Title:","Cancelled from the Airline Performance - Arrivals Database"
+"SubTitle:","Airport"
+"Time:","1987 - 2021"
+"Unit of Measure:","#","#","#","#","#","#","#","#","#","#","#","#"
+"Citation:","Bureau of Transportation Statistics, Bureau of Transportation Statistics  (2022-10-25). Airline Performance - Arrivals: Cancelled | Albany, NY: Albany International, Atlanta, GA: Hartsfield-Jackson Atlanta Internatio, Augusta, GA: Augusta Regional at Bush Field, Daytona Beach, FL: Daytona Beach International, Los Angeles, CA: Los Angeles International, Miami, FL: Miami International, New York, NY: John F. Kennedy International, New York, NY: LaGuardia, Orlando, FL: Orlando International, San Diego, CA: San Diego International, San Francisco, CA: San Francisco International, Savannah, GA: Savannah/Hilton Head International, 1987 - 2021. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  007-001-007 doi:https://doi.org/10.6068/DP184683E751630"
+"ColumnCount:",13
+"RowCount:",35
+
+"Time","Albany, NY: Albany International, New York, #","Atlanta, GA: Hartsfield-Jackson Atlanta Internatio, Georgia, #","Augusta, GA: Augusta Regional at Bush Field, Georgia, #","Daytona Beach, FL: Daytona Beach International, Florida, #","Los Angeles, CA: Los Angeles International, California, #","Miami, FL: Miami International, Florida, #","New York, NY: John F. Kennedy International, New York, #","New York, NY: LaGuardia, New York, #","Orlando, FL: Orlando International, Florida, #","San Diego, CA: San Diego International, California, #","San Francisco, CA: San Francisco International, California, #","Savannah, GA: Savannah/Hilton Head International, Georgia, #"
+"1987",53,1053,21,11,792,230,118,432,130,227,662,65
+"1988",123,3033,49,42,1054,608,423,1618,417,371,1042,157
+"1989",250,6349,28,156,1940,1544,652,2441,853,476,1632,317
+"1990",175,2209,52,27,1491,407,319,1389,342,285,1145,108
+"1991",93,1015,33,17,1630,346,398,1254,303,368,1442,41
+"1992",240,1022,58,29,1668,953,420,2323,707,329,1146,68
+"1993",239,1917,37,48,1183,618,560,2182,691,327,938,67
+"1994",200,1993,87,50,1334,578,928,3061,521,377,1001,44
+"1995",242,3215,43,40,3736,914,777,2252,634,696,2690,56
+"1996",284,4751,58,45,4668,1111,1330,3984,737,935,3391,110
+"1997",189,3923,60,19,4295,639,471,2218,682,655,2785,59
+"1998",304,5670,49,12,5419,1162,754,3168,1113,1253,5960,61
+"1999",427,7554,40,25,5631,1868,1122,5138,1641,1030,5275,127
+"2000",413,10088,21,31,8149,1371,1382,7287,1881,1355,7270,109
+"2001",605,10530,,35,9691,2517,3856,9382,2495,2492,6389,264
+"2002",159,2948,3,11,2009,316,772,2155,293,429,918,64
+"2003",245,5106,127,35,2767,545,1294,4059,509,736,1441,86
+"2004",226,8433,103,96,2727,1163,1194,4241,2190,748,1987,242
+"2005",216,14480,190,100,2592,1448,1749,4882,817,768,1865,339
+"2006",140,7301,106,66,3248,751,1767,4668,721,1060,2530,276
+"2007",317,7789,60,33,3417,849,4082,6301,1087,1013,2753,378
+"2008",231,6705,40,52,3077,795,3200,5721,1020,1048,2984,322
+"2009",132,6303,61,18,2000,570,2728,3943,625,653,1860,216
+"2010",217,9279,66,40,2292,1079,3849,4301,1125,743,2934,247
+"2011",224,7484,99,18,2764,1522,2595,4658,1178,884,3019,231
+"2012",136,2782,21,0,2493,960,1613,3361,730,830,4232,126
+"2013",159,3450,39,5,2541,596,2007,3319,599,839,3503,193
+"2014",167,6095,48,18,2359,819,2150,4229,1124,818,3961,263
+"2015",111,2752,14,4,2337,793,2014,4534,1107,696,2379,141
+"2016",72,2350,17,17,1945,768,1290,2388,1534,713,2597,171
+"2017",125,5501,31,38,2218,1747,2188,2939,2625,882,3276,184
+"2018",249,2611,79,45,2002,992,3543,6896,1544,767,2541,379
+"2019",234,2464,42,45,2857,1040,2058,4828,2407,1400,3494,328
+"2020",670,11984,147,142,6362,3157,3564,5491,5392,3622,4978,823
+"2021",98,2161,22,23,2240,1330,1125,1471,2304,851,1229,278
+
+
+
+"Publisher:", "Bureau of Transportation Statistics "
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
